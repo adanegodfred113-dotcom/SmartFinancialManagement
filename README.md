@@ -12,7 +12,7 @@ REQUIREMENTS
 
 WINDOWS SETUP
 -------------
-1. Create a folder 📂 for the proect.
+1. Create a folder 📂 for the project.
 2. Create the files.
 3. Double-click run.bat, or open a terminal in this folder and run:
 
