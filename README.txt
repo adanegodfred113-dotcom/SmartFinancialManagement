@@ -12,8 +12,8 @@ REQUIREMENTS
 
 WINDOWS SETUP
 -------------
-1. Extract this ZIP file.
-2. Open the extracted SmartFinance folder.
+1. Create a folder 📂 for the proect.
+2. Create the files.
 3. Double-click run.bat, or open a terminal in this folder and run:
 
        py -m pip install -r requirements.txt
@@ -41,3 +41,7 @@ NOTES
 - The guide's sample-data loader is available in Settings.
 - Use Settings > Backup to make a copy of your finance database.
 - Do not delete finance.db unless you intend to remove your saved records.
+
+ARTHUR
+Adane Godfred Amofah
+BSc. Computer Engineering
